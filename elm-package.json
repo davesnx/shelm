@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "summary": "Basic shell app for learning purposes",
+    "repository": "https://github.com/davesnx/shelem",
+    "license": "BSD3",
+    "source-directories": [
+        ".",
+        "src/"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-community/html-extra": "2.2.0 <= v < 3.0.0",
+        "elm-community/list-extra": "6.1.0 <= v < 7.0.0",
+        "elm-lang/core": "5.0.0 <= v < 6.0.0",
+        "elm-lang/html": "2.0.0 <= v < 3.0.0",
+        "elm-lang/keyboard": "1.0.1 <= v < 2.0.0",
+        "ohanhi/keyboard-extra": "3.0.1 <= v < 4.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
