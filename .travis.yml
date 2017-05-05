@@ -10,7 +10,7 @@ before_install:
   - npm install -g create-elm-app
 
 install:
-  - elm-package install
+  - elm-package install -y
 
 script:
   - elm-app build
