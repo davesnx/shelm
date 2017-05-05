@@ -15,7 +15,10 @@ install:
 script:
   - elm-app build
 
+before-deploy:
+  - ls dist
+
 deploy:
   provider: surge
-  project: ./dist/
+  project: ./dist
   domain: shelm.surge.sh
