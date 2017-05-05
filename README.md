@@ -1,4 +1,4 @@
-### shelm - [![Build Status](https://travis-ci.org/davesnx/shelm.svg?branch=master)](https://travis-ci.org/davesnx/shelm)
+### shelm - [![Build Status](https://travis-ci.org/davesnx/shelem.svg?branch=master)](https://travis-ci.org/davesnx/)
 
 **`elm-app start`**: Run the app in development mode. Hot Reload is enabled. Open http://localhost:3000.
 
