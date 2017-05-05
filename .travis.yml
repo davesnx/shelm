@@ -6,7 +6,7 @@ node_js:
   - "6"
 
 before_install:
-  - npm install -g elm@0.18 elm-package
+  - npm install -g elm@0.18
   - npm install -g create-elm-app
 
 install:
