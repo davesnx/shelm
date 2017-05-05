@@ -1,4 +1,7 @@
-### shelm · [![Build Status](https://travis-ci.org/davesnx/shelem.svg?branch=master)](https://travis-ci.org/davesnx/)
+### shelm
+[![Build Status](https://travis-ci.org/davesnx/shelem.svg?branch=master)](https://travis-ci.org/davesnx/)
+
+[demo](http://shelm.surge.sh/)
 
 ---
 
