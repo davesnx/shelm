@@ -1,0 +1,21 @@
+sudo: false
+
+language: node_js
+
+node_js:
+  - "6"
+
+before_install:
+  - npm install -g elm@0.18 elm-package
+  - npm install -g create-elm-app
+
+install:
+  - elm-package install
+
+script:
+  - elm-app build
+
+deploy:
+  provider: surge
+  project: ./dist/
+  domain: shelm.surge.sh

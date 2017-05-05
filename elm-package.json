@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Silly shell app in elm",
-    "repository": "https://github.com/davesnx/shelem",
+    "repository": "https://github.com/davesnx/shelm.git",
     "license": "BSD3",
     "source-directories": [
         ".",
